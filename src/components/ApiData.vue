@@ -7,6 +7,11 @@
         {{ book.title }} by {{ book.author }}
       </li>
     </ul>
+    <div>
+      <p>
+        I do not know what to do for dinner!
+      </p>
+    </div>
   </div>
 </template>
 
